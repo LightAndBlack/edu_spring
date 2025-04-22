@@ -2,6 +2,7 @@
 .gitattributes
 mvnw
 mvnw.cmd
+data
 
 HELP.md
 target/
